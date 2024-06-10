@@ -5,7 +5,4 @@ int main()
     std::cout << "Hello world!" << std::endl;
     std::cout << "Hello my name is Olutoye" << std::endl;
 }
-Congrats for finishing basics of git!
-testing this!
-testing this three times!
-THis is the actual final test
+Superman
